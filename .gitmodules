@@ -1,0 +1,3 @@
+[submodule "mat-comp-model-tools"]
+	path = mat-comp-model-tools
+	url = https://github.com/jCalderTravis/mat-comp-model-tools.git
