@@ -1,4 +1,4 @@
-# SR-switches-analysis-behav
+# SR-switches-behav
 
 ## Overview
 
