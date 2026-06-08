@@ -1,0 +1,5 @@
+/Data/*
+/logs/*
+/Code_from_others/*
+*.asv
+loadCoreDirs.m
