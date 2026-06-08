@@ -14,7 +14,7 @@ The main start point is `runMatlabStep.m`, which dispatches data processing, mod
 
 ## Using the code
 
-- Open MATLAB in the repository root.
+- Open Matlab in the repository root.
 - Copy `loadCoreDirs.example.m` to `loadCoreDirs.m`, then update the directory paths in this script for your local environment. This file defines the folders containing the data and the folders to be used for analysis output. Specifically:
     - CoreDirs.DataDir: The full path of the directory containing the data. 
     - CoreDirs.StepsResultsDir: Where intermediate analysis results will be saved.
